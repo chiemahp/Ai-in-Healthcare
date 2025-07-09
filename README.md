@@ -26,3 +26,6 @@ streamlit run app.py
 - `models/` : Trained machine learning models
 - `data/` : Sample datasets used for training
 - `images/` : Background image for UI
+
+- ## Project demo link
+https://ai-medical-system.streamlit.app/
